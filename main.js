@@ -21,10 +21,10 @@ const songs = [
       "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Pawn-It-All.mp3",
   },
   {
-    title: "Seni Dert Etmeler",
-    name: "Madrigal",
+    title: "Run (Collins Remix)",
+    name: "OneRepublic",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Madrigal-Seni-Dert-Etmeler.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/blob/7195fb69445f4267630a9c3d761d965f99ebb41f/song-list/OneRepublic-Run-Collins%20Remix.mp3",
   },
   {
     title: "Instant Crush",
