@@ -12,7 +12,9 @@ const songs = [
     title: "Symphony",
     name: "Clean Bandit ft. Zara Larsson",
     source:
-      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Clean-Bandit-Symphony.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/blob/main/song-list/song-list-Clean-Bandit-Symphony.mp3"
+      //"https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Clean-Bandit-Symphony.mp3"
+    ,
   },
   {
     title: "Pawn It All",
