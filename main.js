@@ -12,13 +12,13 @@ const songs = [
     title: "Symphony",
     name: "Clean Bandit ft. Zara Larsson",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Clean-Bandit-Symphony.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Clean-Bandit-Symphony.mp3",
   },
   {
     title: "Pawn It All",
     name: "Alicia Keys",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Pawn-It-All.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Pawn-It-All.mp3",
   },
   {
     title: "Run (Collins Remix)",
@@ -30,26 +30,26 @@ const songs = [
     title: "Instant Crush",
     name: "Daft Punk ft. Julian Casablancas",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Daft-Punk-Instant-Crush.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Daft-Punk-Instant-Crush.mp3",
   },
   {
     title: "As It Was",
     name: "Harry Styles",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Harry-Styles-As-It-Was.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Harry-Styles-As-It-Was.mp3",
   },
 
   {
     title: "Physical",
     name: "Dua Lipa",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Dua-Lipa-Physical.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Dua-Lipa-Physical.mp3",
   },
   {
     title: "Delicate",
     name: "Taylor Swift",
     source:
-      "https://github.com/ecemgo/mini-samples-great-tricks/raw/main/song-list/Taylor-Swift-Delicate.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Taylor-Swift-Delicate.mp3",
   },
 ];
 
