@@ -12,46 +12,44 @@ const songs = [
     title: "Symphony",
     name: "Clean Bandit ft. Zara Larsson",
     source:
-      "https://github.com/ab1ngeorge/music-player-with-slider/blob/main/song-list/song-list-Clean-Bandit-Symphony.mp3"
-      //"https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Clean-Bandit-Symphony.mp3"
-    ,
+      "https://github.com/ab1ngeorge/music-player-with-slider/raw/main/song-list/song-list-Clean-Bandit-Symphony.mp3",
   },
   {
-    title: "Pawn It All",
-    name: "Alicia Keys",
+    title: "Malabari Banger Remix",
+    name: "Fallenchest",
     source:
-      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Pawn-It-All.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/raw/main/song-list/Fallenchest.mp3",
   },
   {
-    title: "Run (Collins Remix)",
+    title: "Run Collins Remix",
     name: "OneRepublic",
     source:
-      "https://github.com/ab1ngeorge/music-player-with-slider/blob/7195fb69445f4267630a9c3d761d965f99ebb41f/song-list/OneRepublic-Run-Collins%20Remix.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/raw/main/song-list/OneRepublic-Run-Collins%20Remix.mp3",
   },
   {
     title: "Instant Crush",
     name: "Daft Punk ft. Julian Casablancas",
     source:
-      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Daft-Punk-Instant-Crush.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/raw/main/song-list/song-list-Daft-Punk-Instant-Crush.mp3",
   },
   {
     title: "As It Was",
     name: "Harry Styles",
     source:
-      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Harry-Styles-As-It-Was.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/raw/main/song-list/song-list-Harry-Styles-As-It-Was.mp3",
   },
 
   {
     title: "Physical",
     name: "Dua Lipa",
     source:
-      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Dua-Lipa-Physical.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/raw/main/song-list/song-list-Dua-Lipa-Physical.mp3",
   },
   {
     title: "Delicate",
     name: "Taylor Swift",
     source:
-      "https://github.com/ab1ngeorge/music-player-with-slider/blob/52f58ffb94553bf35968981461784271e97e8f78/song-list/song-list-Taylor-Swift-Delicate.mp3",
+      "https://github.com/ab1ngeorge/music-player-with-slider/raw/main/song-list/song-list-Taylor-Swift-Delicate.mp3",
   },
 ];
 
@@ -139,4 +137,5 @@ var swiper = new Swiper(".swiper", {
     prevEl: ".backward",
   },
 });
+
 
