@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 ## Demo
-Check out the live demo [here](https://ab1ngeorge.github.io/404-page/).
+Check out the live demo [here](https://ab1ngeorge.github.io/music-player-with-slider/).
 
 
 ## Screenshots
